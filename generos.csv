@@ -1,0 +1,16 @@
+codigo,nombre,descripcion
+G01,Accion,Contenidos con escenas dinamicas y secuencias de riesgo
+G02,Drama,Historias con fuerte carga emocional
+G03,Terror,Producidos para generar miedo
+G04,Comedia,Obras centradas en el humor
+G05,Ciencia Ficcion,Relatos futuristas o de tecnologia avanzada
+G06,Romance,Historias de amor
+G07,Aventura,Exploraciones y misiones emocionantes
+G08,Documental,Contenido basado en hechos reales
+G09,Misterio,Enigmas y suspenso
+G10,Animacion,Peliculas o series animadas
+G11,Biografia,Relatos de vida de personas reales
+G12,Musical,Obras con expresion a traves de musica y cancion
+G13,Western,Historias ambientadas en el oeste americano
+G14,Fantasia,Relatos con elementos magicos o sobrenaturales
+G15,Historico,Ambientadas en epocas pasadas
