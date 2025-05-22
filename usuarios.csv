@@ -1,0 +1,16 @@
+usuarioId,nombre,edad,sexo,email,fechaNacimiento
+U001,Ana Gómez,25,F,ana.gomez@example.com,1999-03-15
+U002,Carlos Pérez,30,M,carlos.perez@example.com,1994-07-22
+U003,María Rodríguez,22,F,maria.rodriguez@example.com,2002-01-10
+U004,Juan Martínez,28,M,juan.martinez@example.com,1996-05-02
+U005,Laura Sánchez,27,F,laura.sanchez@example.com,1997-11-30
+U006,Pedro López,35,M,pedro.lopez@example.com,1989-08-14
+U007,Lucía Torres,20,F,lucia.torres@example.com,2004-02-25
+U008,Diego Ramírez,33,M,diego.ramirez@example.com,1991-12-09
+U009,Valentina Ruiz,26,F,valentina.ruiz@example.com,1998-06-18
+U010,Santiago Díaz,29,M,santiago.diaz@example.com,1995-04-05
+U011,Daniela Cruz,23,F,daniela.cruz@example.com,2001-09-12
+U012,Andrés Herrera,31,M,andres.herrera@example.com,1993-10-21
+U013,Carolina Moreno,24,F,carolina.moreno@example.com,2000-07-07
+U014,Javier Castillo,32,M,javier.castillo@example.com,1992-02-28
+U015,Mariana Vega,21,F,mariana.vega@example.com,2003-05-16
