@@ -1,0 +1,21 @@
+contenidoId,nombre,tipo,descripcion,duracion,anioEstreno,calificacionPromedio
+C001,El Origen,Pelicula,Un ladron que roba secretos a traves de los suenos,148,2010,4.8
+C002,Interstellar,Pelicula,Viaje espacial para salvar a la humanidad,169,2014,4.7
+C003,Stranger Things,Serie,Un grupo de ninos enfrenta lo paranormal,0,2016,4.6
+C004,Stranger Things Ep1,Episodio,Pierde a su amigo en el laboratorio,49,2016,4.5
+C005,Stranger Things Ep2,Episodio,Se adentran en el Mundo del Reves,55,2016,4.6
+C006,La La Land,Pelicula,Historia de amor en Los Angeles,128,2016,4.3
+C007,The Crown,Serie,Relato de la vida de la reina Isabel II,0,2016,4.4
+C008,The Crown Ep1,Episodio,Coronacion y vida en palacio,58,2016,4.2
+C009,The Crown Ep2,Episodio,Primer viaje de estado,60,2016,4.3
+C010,El Angel,Pelicula,Biopic de un famoso asesino argentino,125,2018,4.1
+C011,Dark,Serie,Misterios temporales en un pueblo aleman,0,2017,4.5
+C012,Dark Ep1,Episodio,Desaparicion de un nino,53,2017,4.6
+C013,Dark Ep2,Episodio,Secretos de las cuevas,56,2017,4.5
+C014,Black Mirror,Serie,Distopias tecnologicas independientes,0,2011,4.4
+C015,Black Mirror Ep1,Episodio,El monitor negro,44,2011,4.2
+C016,El Irlandes,Pelicula,Sicarios y la mafia en EE UU,209,2019,4.0
+C017,Roma,Pelicula,Retrato intimo de una familia mexicana,135,2018,4.2
+C018,Narcos,Serie,Historia del narcotrafico en Colombia,0,2015,4.3
+C019,Narcos Ep1,Episodio,Introduccion a Pablo Escobar,50,2015,4.4
+C020,Narcos Ep2,Episodio,Crece el imperio,52,2015,4.3
